@@ -16,7 +16,7 @@ namespace FilmRateAC.Controllers
         public IActionResult Index()
         {
             object a = new object();
-            for (int i = 0; i < 2100000000; i++)
+            for (int i = 0; i < 210000000; i++)
             {
                 a = Math.Sqrt(57646075230343487);
             }
